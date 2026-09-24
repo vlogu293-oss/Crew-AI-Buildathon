@@ -1,0 +1,4 @@
+.env
+__pycache__/
+*.pyc
+support_record_*.txt
